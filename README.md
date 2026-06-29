@@ -11,7 +11,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img width="30" height="30" alt="StephenCarter | Linkedin" src="https://github.com/user-attachments/assets/32c3d9c3-c711-4062-b33b-afac4ed4bf0c" />][linkedin]
+[<img align="left" alt="StephenCarter | LinkedIn" width="30px" height="30px"  src="https://github.com/user-attachments/assets/32c3d9c3-c711-4062-b33b-afac4ed4bf0c" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/stephen-carter-564226216
 
