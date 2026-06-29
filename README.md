@@ -1,5 +1,5 @@
-<h1>Hi, I'm Stephen! <h1>
-
+<h1>Hi, I'm Stephen! </h1>
+ 
 <h2>👨‍💻 Information Technology Projects:</h2>
  
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
